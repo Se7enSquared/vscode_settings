@@ -1,0 +1,30 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.startupEditor": "welcomePage",
+    "workbench.colorTheme": "Friction (rainglow)",
+    "git.enableSmartCommit": true,
+    "editor.quickSuggestions": {
+        "comments": false, // <- no 24x7 IntelliSense in comments
+        "strings": true, // but in strings and the other parts of source files
+        "other": true
+        },
+        "sync.gist": "e2f3edea07c479f03a179a033929aec9",
+        "gitlens.gitExplorer.location": "scm",
+        "gitlens.historyExplorer.location": "scm",
+        "gitlens.resultsExplorer.location": "scm",
+        "gitlens.gitExplorer.files.layout": "tree",
+        "editor.formatOnType": true,
+        "sync.autoUpload": true,
+        "powermode.enabled": true ,
+        "powermode.presets": "flames",
+        "sync.autoDownload": true,
+        "todo-tree.defaultHighlight": {
+            "foreground": "green",
+            "type": "none"
+        },
+        "todo-tree.customHighlight": {
+            "TODO": {},
+            "FIXME": {}
+        },
+        "materialTheme.autoApplyIcons": false
+    }
