@@ -1,0 +1,19 @@
+// Place your key bindings in this file to overwrite the defaults
+
+[{
+    "key": "ctrl+`",
+    "command": "workbench.action.terminal.focus",
+    "when": "editorFocus"
+},{
+    "key": "ctrl+`",
+    "command": "workbench.action.terminal.focus",
+    "when": "explorerViewletFocus"
+},{
+    "key": "ctrl+alt+l",
+    "command": "HookyQR.beautify",
+    "when": "editorFocus"
+},
+
+    { "key": "ctrl+shift+j", "command": "workbench.action.terminal.focusNext" },
+    { "key": "ctrl+shift+k", "command": "workbench.action.terminal.focusPrevious" }
+]
